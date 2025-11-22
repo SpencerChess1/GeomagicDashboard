@@ -1,4 +1,4 @@
-
+#Author: Frawley, Spencer 11/22/2025
 import re
 from typing import Dict, List, Tuple, Any
 import numpy as np
